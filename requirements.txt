@@ -1,0 +1,16 @@
+jupyter
+langchain
+langgraph
+langsmith
+langserve
+langchain_openai
+langchain_anthropic
+pillow
+graphviz
+pyppeteer
+pyproject
+# pygraphviz
+grandalf 
+icecream
+tavily-python
+fastapi
